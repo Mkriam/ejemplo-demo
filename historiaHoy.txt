@@ -1,0 +1,19 @@
+    1  git config --golbal user.name "Miriam"
+    2  config --global user.name "Miriam"
+    3  git config --global user.name "Miriam"
+    4  git config --global user.email "miri@miri.com"
+    5  git config --list
+    6  .gitconfig
+    7  dir
+    8  cd Downloads
+    9  mkdir ejemplo.git/
+   10  mkdir ejemplo-git/
+   11  cd ejemplo-git/
+   12  ls
+   13  ls -la
+   14  git status
+   15  git log
+   16  history
+   17  history >>historiaHoy
+   18  hystory>>historiaHoy.txt
+   19  history >> historiaHoy.txt
